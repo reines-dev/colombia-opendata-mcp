@@ -1,0 +1,28 @@
+# Entornos virtuales
+venv/
+.venv/
+env/
+ENV/
+
+# Python caché
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+
+# Datos locales y exportaciones
+datasets_graph.json
+*.csv
+
+# Variables de entorno
+.env
+
+# Logs
+*.log
+
+# IDEs
+.vscode/
+.idea/
+linkedin_article.md
+gemini.md
